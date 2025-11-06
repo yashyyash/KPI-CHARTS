@@ -17,3 +17,13 @@
 " Add Angular-Material UI Library, yes , Azure/Blue Template"
 "ng add @angular/material"
 ```
+
+```
+- step 4 
+"Generate Services"
+"npx ng g s features/services/finance"
+this will create the following. 
+npx ng g s /features/services/finance
+- CREATE src/app/features/services/finance.service.spec.ts (362 bytes)
+- CREATE src/app/features/services/finance.service.ts (136 bytes)
+```
